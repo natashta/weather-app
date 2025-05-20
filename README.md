@@ -1,7 +1,7 @@
 # React + Vite
 
 Приложение открывается по ссылке: 
-[https://github.com/natashta/weather-app](https://github.com/natashta/weather-app)
+[https://github.com/natashta/weather-app](https://natashta.github.io/weather-app/)
 
 ## Тестовые данные для входа
 
